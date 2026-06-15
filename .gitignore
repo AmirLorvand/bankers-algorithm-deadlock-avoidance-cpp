@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Build outputs
+*.o
+*.out
+*.exe
+bankers
+
+# Temporary files
+*.tmp
+*.log
+
+# CMake/build folders
+build/
+cmake-build-debug/
+cmake-build-release/
