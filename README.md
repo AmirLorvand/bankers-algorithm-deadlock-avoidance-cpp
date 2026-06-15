@@ -160,5 +160,3 @@ Possible improvements include:
 ## Author
 
 **Amir Lorvand**
-
-Computer Science graduate with an interest in software development, artificial intelligence, machine learning, and systems programming.
