@@ -1,5 +1,5 @@
-// AMIR LORVAND
-// M00872834
+// Author: Amir Lorvand
+// Project: Banker's Algorithm Deadlock Avoidance Simulation
 
 #include <iostream>
 #include "Bankers.h"
